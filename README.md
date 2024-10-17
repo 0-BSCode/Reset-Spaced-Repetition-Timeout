@@ -2,7 +2,7 @@
 
 This is a simple plugin to reset the timer on the flashcards used in the [spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) plugin.
 
-## Usage
+## Installation
 
 1. Clone the directory into your `.obsidian/plugins` directory
 
@@ -27,4 +27,12 @@ npm run build
 
 > [!CAUTION]
 > This is a very rough plugin. Be careful not to use it on your main vaults.
+
+## Setup
+The resetting of the flashcards can be done in 2 ways:
+1. Ribbon icon on the left side menu
+![](./screenshots/Ribbon%20Menu.png)
+
+2. Command palette
+![](./screenshots/Command.png)
 
