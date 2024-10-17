@@ -8,7 +8,8 @@ This is a simple plugin to reset the timer on the flashcards used in the [spaced
 
 ```bash
 cd path/to/vault/.obsidian/plugins
-git clone https://github.com/st3v3nmw/obsidian-spaced-repetition
+git clone https://github.com/0-BSCode/Reset-Spaced-Repetition-Timeout.git
+cd Reset-Spaced-Repetition-Timeout
 ```
 
 2. Install the dependencies
